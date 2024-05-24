@@ -60,7 +60,7 @@ header {
   }
 
 .index {
-    
+    display: flex;
     width: 350px;
     height: 350px;
     background-color: pink;
