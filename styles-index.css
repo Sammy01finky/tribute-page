@@ -75,11 +75,11 @@ header {
     color: black;
 
 }
-footer {
+.contact {
     overflow: hidden;
     background-color: bisque;
 }
-footer a {
+.contact a {
     float: right;
     display: block;
     color: black;
