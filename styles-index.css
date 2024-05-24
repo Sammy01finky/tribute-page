@@ -63,7 +63,7 @@ header {
     display: flex;
     width: 350px;
     height: 350px;
-    background-color: yellow;
+    background-color: pink;
     text-align: center;
     margin: 100px 20px;
     padding: 10px;
@@ -76,6 +76,10 @@ header {
 
 }
 .contact {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
     overflow: hidden;
     background-color: bisque;
 }
